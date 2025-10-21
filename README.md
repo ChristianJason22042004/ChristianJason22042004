@@ -6,7 +6,7 @@ A passionate **Frontend Developer** and **IT Enthusiast** focused on building **
 
 🌱 I’m currently learning **Advanced Frontend Development** and **AI/ML integration**.  
 
-👯 I’m looking to collaborate on **Hackathons** and **Open Source Projects**.  
+👯 I’m looking to collaborate on **Open Source Projects**.  
 
 🤝 I’m looking for help with **Innovative Web Projects** and **AI-based Projects**.  
 
