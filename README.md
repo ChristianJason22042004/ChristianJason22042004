@@ -1,18 +1,16 @@
-Hi 👋, I'm Christian Jason Ranison
+A passionate Full-Stack Developer and IT Enthusiast focused on building clean UI and intelligent workflows.
 
-A passionate **Frontend Developer** and **IT Enthusiast** focused on building **clean UI** and **smart workflows**.
+🔭 I’m currently working with JavaScript, React, MERN Stack, and Python/Django.
 
-🔭 I’m currently working on **JavaScript, React, and MERN stack**.  
+🌱 I’m learning Advanced Frontend Development, AI/ML Integration, and Cloud/DevOps Tools.
 
-🌱 I’m currently learning **Advanced Frontend Development** and **AI/ML integration**.  
+👯 I’m open to collaborating on Open Source Projects.
 
-👯 I’m looking to collaborate on **Open Source Projects**.  
+🤝 I’m looking for guidance and collaboration on Innovative Web Projects and AI-driven Solutions.
 
-🤝 I’m looking for help with **Innovative Web Projects** and **AI-based Projects**.  
+💬 Ask me about Frontend & Backend Development, Python GUI apps, REST APIs, SQL/NoSQL Databases, Docker, and Debugging.
 
-💬 Ask me about **Frontend & Backend Development, Python GUI apps, REST APIs, SQL/NoSQL Databases, and Debugging**.  
-
-📫 How to reach me: [christianjason2204@gmail.com](mailto:christianjason2204@gmail.com)
+📫 How to reach me: christianjason2204@gmail.com
 
 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChristianJasonRanison-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonranisonchristian/)  
