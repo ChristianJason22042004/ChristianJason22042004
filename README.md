@@ -8,7 +8,7 @@ A passionate Full-Stack Developer and IT Enthusiast focused on building clean UI
 
 🤝 I’m looking for guidance and collaboration on Innovative Web Projects and AI-driven Solutions.
 
-💬 Ask me about Frontend & Backend Development, Python GUI apps, REST APIs, SQL/NoSQL Databases, Docker, and Debugging.
+💬 Ask me about Frontend & Backend Development, Python GUI apps, REST APIs, SQL/NoSQL Databases and Debugging.
 
 📫 How to reach me: christianjason2204@gmail.com
 
