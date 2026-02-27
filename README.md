@@ -1,14 +1,14 @@
-A passionate Full-Stack Developer and IT Enthusiast focused on building clean UI and intelligent workflows.
+A passionate AI/ML Engineer and Generative AI Enthusiast focused on building intelligent, scalable, and autonomous AI systems powered by LLMs.
 
-🔭 I’m currently working with JavaScript, React, MERN Stack, and Python/Django.
+🔭 I’m currently working with Python, Large Language Models (LLMs), Generative AI, RAG pipelines, and Vector Databases.
 
-🌱 I’m learning Advanced Frontend Development, AI/ML Integration, and Cloud/DevOps Tools.
+🌱 I’m learning Agentic AI, Advanced LLM Architectures, RAG Optimization, Vector Database Engineering, and Production AI Deployment.
 
-👯 I’m open to collaborating on Open Source Projects.
+👯 I’m open to collaborating on Generative AI, LLM Applications, Agentic Workflows, and Open Source AI Projects.
 
-🤝 I’m looking for guidance and collaboration on Innovative Web Projects and AI-driven Solutions.
+🤝 I’m looking for guidance and collaboration on cutting-edge AI systems, autonomous agents, and real-world GenAI solutions.
 
-💬 Ask me about Frontend & Backend Development, Python GUI apps, REST APIs, SQL/NoSQL Databases and Debugging.
+💬 Ask me about Python, AI/ML, Generative AI, LLMs, RAG Pipelines, Vector Databases, Model Training, and AI System Design.
 
 📫 How to reach me: christianjason2204@gmail.com
 
@@ -20,34 +20,35 @@ Connect with me:
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 AI, ML, and GenAI Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![WSGI](https://img.shields.io/badge/WSGI-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-FF6F00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00C7B7?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF4500?style=for-the-badge)
+
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-4169E1?style=for-the-badge)
+
+![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFCC00?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-006400?style=for-the-badge)
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B68EE?style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
