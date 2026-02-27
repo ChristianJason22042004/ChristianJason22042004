@@ -79,7 +79,7 @@ I specialize in developing production-ready AI applications powered by **LLMs, V
 
 ### 🎯 Specializations
 
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Expert-blue?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/Role-AI%20Engineer-blue?style=for-the-badge)
 ![Generative AI Engineer](https://img.shields.io/badge/Generative%20AI-Engineer-purple?style=for-the-badge)
 ![LLM Engineer](https://img.shields.io/badge/LLM-Engineer-black?style=for-the-badge)
 ![RAG Developer](https://img.shields.io/badge/RAG-Developer-red?style=for-the-badge)
