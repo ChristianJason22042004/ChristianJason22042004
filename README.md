@@ -72,14 +72,6 @@ Focused on creating scalable AI applications that solve real-world problems usin
 
 ---
 
-# 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJason22042004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🚀 Current Focus
 
 - Generative AI Applications  
