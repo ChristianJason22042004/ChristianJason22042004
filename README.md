@@ -60,16 +60,6 @@ Focused on creating scalable AI applications that solve real-world problems usin
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChristianJason22042004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJason22042004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-
-</p>
-
 # 🚀 Current Focus
 
 - Generative AI Applications  
