@@ -74,16 +74,16 @@ Focused on creating scalable AI applications that solve real-world problems usin
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jasonranisonchristian/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/jasonranisonchristian/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Jason%20Ranison%20Christian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:christianjason2204@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:christianjason2204@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-christianjason2204%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ChristianJason22042004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/ChristianJason22042004" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-ChristianJason22042004-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
