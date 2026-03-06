@@ -1,10 +1,15 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=Jason+Ranison+Christian;AI+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+Developer;Python+AI+Engineer;Building+Intelligent+Systems" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,postgres,git,github,docker" />
 </p>
 
 <!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=Jason+Ranison+Christian;AI+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+Developer;Python+AI+Engineer;Building+Intelligent+Systems" />
+</p> -->
+
+<!-- <p align="center">
+counter
   <img src="https://komarev.com/ghpvc/?username=ChristianJason22042004&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 </p> -->
 
