@@ -1,49 +1,53 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=Jason+Ranison+Christian;AI+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+Developer;Python+AI+Engineer;Building+Intelligent+Systems&loop=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=Jason+Ranison+Christian;AI+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+Developer;Building+Intelligent+Systems&loop=true" />
 </p>
 
 ---
 
-# 🧠 About Me
+## 🧠 About
 
-AI Engineer focused on building **Generative AI applications**, **LLM-powered systems**, and **RAG pipelines**.
+AI engineer focused on building **intelligent systems powered by Generative AI and Large Language Models**.
 
-Interested in developing **scalable AI systems that solve real-world problems**.
+My work centers on developing **LLM-powered applications**, including **RAG pipelines, agentic workflows, and vector database integrations** for scalable AI systems.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,postgres,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,sqlite,git,github,docker" />
 </p>
 
-### AI / ML
-PyTorch • Scikit-Learn • NumPy • Pandas  
+**Machine Learning & Deep Learning**
 
-### LLM / GenAI
-LangChain • LlamaIndex • HuggingFace  
+PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas  
 
-### Vector Databases
+**LLM & Generative AI**
+
+LangChain • LlamaIndex • Hugging Face Transformers  
+
+**Vector Databases**
+
 FAISS • ChromaDB  
 
-### Databases
-PostgreSQL • SQL  
+**Databases**
+
+SQLite • SQL  
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-• Generative AI Applications  
-• LLM Engineering  
-• Retrieval Augmented Generation (RAG)  
-• Agentic AI Systems  
+- Generative AI application development  
+- Large Language Model (LLM) engineering  
+- Retrieval-Augmented Generation (RAG) systems  
+- Agentic AI architectures  
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -55,7 +59,7 @@ PostgreSQL • SQL
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 
@@ -71,6 +75,8 @@ PostgreSQL • SQL
 
 ---
 
-# 🧩 Philosophy
+## 🧩 Philosophy
 
-Quiet consistency builds real capability.
+Consistency compounds into expertise.
+
+Focused on **learning, building, and contributing to the future of AI systems.**
