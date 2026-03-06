@@ -4,10 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=Jason+Ranison+Christian;AI+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+Developer;Python+AI+Engineer;Building+Intelligent+Systems" />
 </p>
 
-<p align="center">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ChristianJason22042004&left_color=0A66C2&right_color=FF4B4B)
-  <!-- <img src="https://komarev.com/ghpvc/?username=ChristianJason22042004&label=Profile%20Views&color=0A66C2&style=for-the-badge" /> -->
-</p>
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChristianJason22042004&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+</p> -->
 
 ---
 
