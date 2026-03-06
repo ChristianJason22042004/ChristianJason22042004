@@ -47,18 +47,6 @@ SQLite • SQL
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChristianJason22042004&show_icons=true&theme=github_dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJason22042004&layout=compact&theme=github_dark" />
-
-</p>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
