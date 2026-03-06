@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristianJason22042004&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ChristianJason22042004&left_color=0A66C2&right_color=FF4B4B)
+  <!-- <img src="https://komarev.com/ghpvc/?username=ChristianJason22042004&label=Profile%20Views&color=0A66C2&style=for-the-badge" /> -->
 </p>
 
 ---
